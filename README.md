@@ -1,4 +1,11 @@
-### Hi there 👋
+### Declan Twomey 💻
+I am a novice programmer that is currently studying Java. 
+
+
+
+
+
+
 
 <!--
 **dtwomey777/dtwomey777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
